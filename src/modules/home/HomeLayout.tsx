@@ -46,7 +46,7 @@ const HomeLayout = () => {
               <StyledButton variant="text">About us</StyledButton>
             </Link>
             <a
-              href={'https://github.com/sadanandpai/resume-builder'}
+              href={'https://github.com/Faribro/resume_builder_2/'}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -175,21 +175,20 @@ const HomeLayout = () => {
       >
         <h2 className="text-resume-800 text-3xl mb-2 text-center lg:text-left">About us</h2>
         <p className="text-resume-400 mb-8 text-center lg:text-left">
-          A bunch of developers and designers — who love to build open source projects and learn
-          along!
+          A Passionate Fullstack Developer with a vision to build and integrate optimization in the most advanced Tecnologies!
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <Person />
         </div>
         <p className="text-resume-400 my-8 text-center lg:text-left">
-          Read our design story on&nbsp;
+          You Can Contribute anytime on Github on&nbsp;
           <a
-            href="https://medium.com/@yakshag/e-resume-build-a-professional-resume-design-case-study-3dc02a6359ea"
+            href="https://github.com/Faribro/resume_builder_2"
             target="_blank"
             rel="noreferrer"
             className="underline"
           >
-            Medium
+            Github
           </a>
           ↗
         </p>

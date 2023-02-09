@@ -6,7 +6,7 @@ const persons = [
     role: 'Fullstack Developer',
     avatar: 'https://avatars.githubusercontent.com/u/49672595?s=96&v=4',
     github: 'https://github.com/Faribro',
-    linkedin: 'https://www.linkedin.com/in/Farid Sayyed/',
+    linkedin: 'https://www.linkedin.com/in/Farid-Sayyed/',
   },
 ];
 
