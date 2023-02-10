@@ -154,7 +154,7 @@ const HomeLayout = () => {
               </div>
               <div>
                 <a
-                  href="https://github.com/sadanandpai/resume-builder"
+                  href="https://github.com/Faribro/resume_builder_2"
                   target="_blank"
                   rel="noreferrer"
                 >
